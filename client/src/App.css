@@ -1,4 +1,9 @@
-.App {
-  margin: 0;
-  padding: 0;
+h1 {
+  text-align: center;
+  padding: 25px;
+}
+
+.navBarContainer {
+  padding-left: 15%;
+  padding-right: 15%;
 }
